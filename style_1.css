@@ -1,0 +1,31 @@
+.team{
+  background-color: #0101df;
+  border: 5px dotted yellow;
+  padding: 20px
+}
+
+@media (min-width: 800px){
+  body{
+    background-color: coral;
+  }
+
+  body{
+    background-image: url("images/animated.gif");
+    color: yellow;
+  }
+
+p{
+  background-color: #0101df;
+  border: 5px dotted yellow;
+  padding: 20px
+}
+
+a{
+  color: pink;
+}
+
+table{
+  background-color: #0101df;
+  border: 5px dotted yellow;
+  padding: 20px
+}
